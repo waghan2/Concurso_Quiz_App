@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979762431196",
+    "project_id": "concursos-quizapp",
+    "storage_bucket": "concursos-quizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979762431196:android:c1258fe695da9fd8322019",
+        "android_client_info": {
+          "package_name": "com.concurso_quiz.concurso_quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979762431196-mhjn6vodfls0fd6r3pmm875fv76r9u19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnAtm8ZhxYwO1X3QHBxK4KAR7vMbExCo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979762431196-mhjn6vodfls0fd6r3pmm875fv76r9u19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
